@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+### Added
+- Added `obj` setter to context builder as an alternative to `currentContext.obj`
+
 ## 3.4.0
 ### Changed
 - `unique()` now works with any option with a list type, not just `multiple()` options ([#332](https://github.com/ajalt/clikt/issues/332))
