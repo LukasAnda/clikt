@@ -4,6 +4,7 @@
 ### Added
 - Added `obj` setter to context builder as an alternative to `currentContext.obj`
 - Added `option().boolean()` and `argument().boolean()`
+- `uint()` and `ulong()` parameter type conversions.
 
 ## 3.4.0
 ### Changed
